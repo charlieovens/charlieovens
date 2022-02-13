@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @charlieovens
-- 👀 I’m interested in Economics, Policy and developing simple programs that make my life easier 
-- 🌱 I’m currently learning Python 
+- 👀 I’m interested in Economics, Politics, Policy and developing simple programs that make my life easier 
+- 🌱 I’m currently learning Python and SQL
 - 📫 charlie.ovens98@gmail.com
 
 <!---
